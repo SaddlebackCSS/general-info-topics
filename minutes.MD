@@ -1,4 +1,4 @@
-###0th Meeting###
+#0th Meeting#
 ##9/29/2015##
 
 -Discussed the reformation of the club and the new constitution
