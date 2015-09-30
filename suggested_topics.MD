@@ -22,11 +22,11 @@ Graphical Libraries | Anthony / Jesse
 LinkedIn | 
 Linux | Anthony / Jesse
 *Company Profiles / Who's Hiring* |
-*Internships* | Sean
+*Internships* | 
 Design Patterns / MVC (Model view controller) | Sean
-Regex | Andrew
-Windows Powershell | Sean
-Windows Scripthost | 
+Regex | Sean
+Windows Powershell | Andrew
+Windows Scripthost | Sean
 XML | 
 Computer Science Fields | 
 Sample Interview Questions / Technical Questions | 
