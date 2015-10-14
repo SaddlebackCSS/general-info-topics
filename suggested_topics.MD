@@ -11,7 +11,7 @@ Scala | Sean
 OpenCV | 
 C++ Advanced Polymorphism/Inheritance | Andrew
 C++ STL/Boost | Can
-C# |
+C# | Zach
 *Raspberry Pi* | Ethan(hardware)
 *Arduino* | Ethan
 C / Hardware programming / design | Ethan
