@@ -19,7 +19,7 @@ Qt | Can
 Graphical Libraries | Anthony / Jesse
 *Resume Building* | 
 *Industry Standard Skills* | 
-LinkedIn | 
+LinkedIn | Parker
 Linux | Anthony / Jesse
 *Company Profiles / Who's Hiring* |
 *Internships* | 
