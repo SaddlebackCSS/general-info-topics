@@ -7,6 +7,8 @@
 
 -Methods of sharing information and ideas
 
+___
+
 
 #1st Official Meeting#
 ##10/20/2015##
@@ -14,6 +16,8 @@
 -Star Wars trailer.
 
 -Ethan presented LaTeX.
+
+___
 
 
 #2nd Meeting#
@@ -24,6 +28,8 @@
 -Started club contest: Thanksgiving-themed text-based adventure game.
 
 -Discussed Cygwin and Git Bash.
+
+___
 
 
 #3rd Meeting#
