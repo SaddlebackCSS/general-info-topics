@@ -44,4 +44,4 @@
 
 -Show and Tell: Hardware and ARDUINO by Ethan
 
--Lesson: Sean teaches Python.
+-Lesson: Sean teaches Python
