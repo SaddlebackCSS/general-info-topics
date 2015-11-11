@@ -10,7 +10,6 @@
 ***
 
 
-
 #1st Official Meeting#
 ##10/20/2015##
 
@@ -19,7 +18,6 @@
 -Ethan presented LaTeX.
 
 ***
-
 
 
 #2nd Meeting#
@@ -34,7 +32,6 @@
 ***
 
 
-
 #3rd Meeting#
 ##11/03/2015##
 
@@ -45,3 +42,11 @@
 -Show and Tell: Hardware and ARDUINO by Ethan
 
 -Lesson: Sean teaches Python
+
+***
+
+
+#4th Meeting#
+##11/10/2015##
+
+-Lesson: Model-View-Controller pattern in Java, with Sean
