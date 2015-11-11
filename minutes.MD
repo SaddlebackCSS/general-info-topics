@@ -10,17 +10,33 @@
 ***
 
 
-#1st Official Meeting#
-##10/20/2015##
+#1st Meeting#
+##10/06/2015##
 
--Star Wars trailer.
-
--Ethan presented LaTeX.
+-Lesson: Jesse teaches Git.
 
 ***
 
 
 #2nd Meeting#
+##10/13/2015##
+
+-Lesson: Sean teaches VIM.
+
+***
+
+
+#3rd Meeting#
+##10/20/2015##
+
+-Star Wars trailer.
+
+-Lesson: Ethan teaches LaTeX.
+
+***
+
+
+#4th Meeting#
 ##10/27/2015##
 
 -Discussed ideas for a club project.
@@ -32,12 +48,12 @@
 ***
 
 
-#3rd Meeting#
+#5th Meeting#
 ##11/03/2015##
 
 -Mandatory club meeting on Thursday.
 
--Sean uploaded a VIM cheatsheet to Github.
+-Sean uploaded a VIM cheatsheet to Github. (SaddlebackCSS/vimnotes)
 
 -Show and Tell: Hardware and ARDUINO by Ethan
 
@@ -46,7 +62,7 @@
 ***
 
 
-#4th Meeting#
+#6th Meeting#
 ##11/10/2015##
 
 -Lesson: Model-View-Controller pattern in Java, with Sean
