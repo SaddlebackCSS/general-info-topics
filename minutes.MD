@@ -7,7 +7,8 @@
 
 -Methods of sharing information and ideas
 
-_______________________________________________________________
+***
+
 
 
 #1st Official Meeting#
@@ -17,7 +18,8 @@ _______________________________________________________________
 
 -Ethan presented LaTeX.
 
-_______________________________________________________________
+***
+
 
 
 #2nd Meeting#
@@ -29,7 +31,8 @@ _______________________________________________________________
 
 -Discussed Cygwin and Git Bash.
 
-_______________________________________________________________
+***
+
 
 
 #3rd Meeting#
@@ -39,6 +42,6 @@ _______________________________________________________________
 
 -Sean uploaded a VIM cheatsheet to Github.
 
--Show and Tell: Hardware and ARDUINO
+-Show and Tell: Hardware and ARDUINO by Ethan
 
 -Lesson: Sean teaches Python.
