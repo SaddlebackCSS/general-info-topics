@@ -7,7 +7,7 @@
 
 -Methods of sharing information and ideas
 
-___
+_______________________________________________________________
 
 
 #1st Official Meeting#
@@ -17,7 +17,7 @@ ___
 
 -Ethan presented LaTeX.
 
-___
+_______________________________________________________________
 
 
 #2nd Meeting#
@@ -29,7 +29,7 @@ ___
 
 -Discussed Cygwin and Git Bash.
 
-___
+_______________________________________________________________
 
 
 #3rd Meeting#
