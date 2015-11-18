@@ -66,3 +66,11 @@
 ##11/10/2015##
 
 -Lesson: Model-View-Controller pattern in Java, with Sean
+
+***
+
+
+#7th Meeting#
+##11/17/2015##
+
+-Lesson: Zach teaches C++
