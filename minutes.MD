@@ -89,4 +89,4 @@
 #9th Meeting#
 ##12/01/2015##
 
--Discussion was had: Ethan Slattery is new Vice President for next semester.
+-Discussion was had: Ethan Slattery is the new Vice President for next semester.
