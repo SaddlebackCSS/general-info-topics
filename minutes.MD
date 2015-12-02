@@ -74,3 +74,19 @@
 ##11/17/2015##
 
 -Lesson: Zach teaches C++
+
+***
+
+
+#8th Meeting#
+##11/24/2015##
+
+-Club project demonstrations.
+
+***
+
+
+#9th Meeting#
+##12/01/2015##
+
+-Discussion was had: Ethan Slattery is new Vice President for next semester.
