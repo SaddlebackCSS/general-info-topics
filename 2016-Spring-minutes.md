@@ -9,4 +9,6 @@
 
 -Discussed ideas for competitive projects.
 
+-Discussed Michele's server project.
+
 ***
