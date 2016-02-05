@@ -11,4 +11,6 @@
 
 -Discussed Michele's server project.
 
+-Michele suggested that we convert to a funded club.
+
 ***
