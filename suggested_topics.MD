@@ -31,5 +31,8 @@ XML |
 Computer Science Fields | 
 Sample Interview Questions / Technical Questions | 
 Markdown | Jesse
+Multi-Threading | 
+OSI Model | 
 LaTeX* | Ethan
 Makefiles |
+Javascript | Anthony R.
