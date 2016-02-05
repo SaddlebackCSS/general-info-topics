@@ -13,4 +13,6 @@
 
 -Michele suggested that we convert to a funded club.
 
+-Discussed ACM-ICPC.
+
 ***
