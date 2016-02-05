@@ -1,4 +1,4 @@
-#1st Meeting#
+#0th Meeting#
 ##2/4/2016##
 
 -Discussed club goals.
