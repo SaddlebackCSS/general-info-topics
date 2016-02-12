@@ -55,6 +55,9 @@ Also improves memory management.
 - Unreal Engine: A commercial game engine.
 - libGDX: A cross-platform game library that targets desktop, mobile, and HTML5.
   - Sean
+- Java Scripting API: Enables itegration with scripting languages.
+Useful for allowing users to write plugins, or writing high-level logic in a flexible scripting language.
+  - Sean
 
 
 ## Markup Languages
