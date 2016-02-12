@@ -30,6 +30,10 @@ Allows users to automate tasks they commonly perform on their computers.
 - Javascript: An embedded scripting language.
 Most commonly used within web browsers to add interactivity to web pages.
   - Anthony R.
+- Lisp/Clojure: Lisp is a very-high-level language that has the simplest possible
+syntax and promotes self-metaprogramming.
+Clojure is a variant of Lisp that runs on the JVM.
+  - Sean
 
 
 ## Libraries
