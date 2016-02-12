@@ -16,3 +16,15 @@
 -Discussed ACM-ICPC.
 
 ***
+
+
+#1st Meeting#
+##2/11/2016##
+
+-Discussed posting content to the SaddlebackCSS GitHub repository.
+
+-Discussed the Spring Break-themed game design contest.
+
+-Ethan presents "Autonomous Car" contest.
+
+***
