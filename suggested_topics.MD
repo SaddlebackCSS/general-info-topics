@@ -1,6 +1,6 @@
 Suggestions for Topics | Possible Presenter(s)
 --- | ---
-SQL | Brett
+SQL | Jesse
 PHP | Sean
 Python* | Sean
 BASH/Cygwin | Sean / Anthony / Jesse
@@ -38,3 +38,6 @@ Makefiles |
 Javascript | Anthony R.
 Virtualization |
 Containerization |
+Unreal Engine | 
+libGDX | Sean
+Blender | Sean
