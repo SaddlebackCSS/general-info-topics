@@ -145,3 +145,7 @@ machine-readable data in a machine-independent way.
 Allows for modelling, animation, physics simulations, and games.
 Has an embedded Python interpreter for writing add-ons and game logic.
   - Sean
+- Encryption:
+An important part of the data world allowing sensitive information to only be viewed by certain parties.
+- Hashing:
+Taking data of any size or type and creating a unique hash. Used for storing passwords and data integrity.
