@@ -30,3 +30,17 @@
 -Anthony presents VirtualBox.
 
 ***
+
+
+#2nd Meeting#
+##2/18/2016##
+
+-Discussed the Spring Break-themed game design contest.
+  -Discussed breaking the group into teams of developers.
+
+-Discussed 'Problets'.
+
+-Sean presents game engine development in Java.
+
+***
+
