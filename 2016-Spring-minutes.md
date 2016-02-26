@@ -44,3 +44,14 @@
 
 ***
 
+
+#3rd Meeting#
+##2/25/2016##
+
+-Discussed the Spring Break-themed game design contest.
+  -Discussed breaking the group into teams of developers, again.
+
+-Ethan presents Platform.IO.
+
+***
+
