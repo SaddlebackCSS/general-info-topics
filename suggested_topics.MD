@@ -3,19 +3,22 @@
 ## Programming Languages
 
 - SQL: A language for interacting with databases.
-  - Jesse
-- PHP: A non-language for non-programmers to make non-applications.
-Popular among web designers who don't understand programming.
-  - Sean (if I have to)
+  - Farid
 - Python: A very-high-level scripting language.
 Popular for beginners, system administration, data analysis,
 web server applications, rapid prototyping, and many others.
-  - Sean (done last semester)
-- C#: A programming language by Microsoft, comparable to Java.
-  - Zach (done last semester)
-- Erlang: A functional programming language with an emphasis on
-parallel/distributed processing.
-  - Can
+  - Sean (done previously)
+- Java: A high-level cross-platform programming language popular in enterprises.
+  - Chad Ross
+  - Sean
+  - Adrian
+- Overview of Web Technologies
+  - Sean
+- HTML5 (HTML/CSS/JavaScript)
+  - Sean
+- Node.js
+- PowerShell
+  - Andrew
 - Scala: A functional language for the JVM.
 Allows for highly scalable parallel/distributed processing.
 Can also promote better coding practices.
@@ -23,13 +26,7 @@ Can also promote better coding practices.
 - Bash: The default shell on most UNIX systems.
 Allows users to automate tasks they commonly perform on their computers.
   - Sean
-  - Anthony
   - Jesse
-- Windows Powershell: An advanced scripting system for Windows administration.
-  - Andrew
-- Javascript: An embedded scripting language.
-Most commonly used within web browsers to add interactivity to web pages.
-  - Anthony R.
 - Lisp/Clojure: Lisp is a very-high-level language that has the simplest possible
 syntax and promotes self-metaprogramming.
 Clojure is a variant of Lisp that runs on the JVM.
@@ -37,22 +34,18 @@ Clojure is a variant of Lisp that runs on the JVM.
 
 
 ## Libraries
-- OpenCV: Computer Vision allows software to recognize
-objects (faces, text) in images.
-- C++ STL: Data structures included in C++.
-  - Can
-- Boost: An "extended" standard library for C++.
-Some parts of Boost have been incorporated into the ANSI C++ spec.
-  - Can
 - Qt: High-level application framework for C++.
 Includes GUIs, database access, networking, scripting, media, etc.
 Also improves memory management.
-  - Can
   - Sean
+- OpenCV: Computer Vision allows software to recognize
+objects (faces, text) in images.
+- Win32
+  - Andrew
 - Graphical Libraries: TODO
-  - Anthony
   - Jesse
 - Unreal Engine: A commercial game engine.
+  - Adrian
 - libGDX: A cross-platform game library that targets desktop, mobile, and HTML5.
   - Sean
 - Java Scripting API: Enables itegration with scripting languages.
@@ -64,23 +57,21 @@ Useful for allowing users to write plugins, or writing high-level logic in a fle
 - Markdown: A lighweight markup language that converts to HTML.
 Used extensively on the web (including github).
   - Jesse
-- LaTeX: A full-featured markup language commonly used for academic papers.
-  - Ethan (done last semester)
+  - Sean
 
 
 ## Tools
-- Cygwin: A port of Bash and other common UNIX tools to Windows.
-Useful for UNIX users to keep their sanity when using Windows.
-  - Sean
-  - Anthony
-  - Jesse
 - VIM: An advanced text editor.
 Has a steep learning curve, but enables users to be much more productive.
   - Sean (done last semester)
 - Git: A popular version control system.
 Version control systems allow programmers to keep their sanity when working in groups.
-  - Anthony
   - Jesse (done last semester)
+  - Chad Ross
+- Cygwin: A port of Bash and other common UNIX tools to Windows.
+Useful for UNIX users to keep their sanity when using Windows.
+  - Sean
+  - Jesse
 - Make: The original build system.
 Build systems enable programmers to manage the build cycle for their programs
 (eg compile, test, package, deploy).
@@ -94,11 +85,10 @@ Very useful for group or open-source projects.
 
 ## Hardware
 - *Raspberry Pi*: An inexpensive single-board micro-computer.
-  - Ethan
+  - Johnny
+  - Farid
 - *Arduino*: TODO
-  - Ethan
-- C Hardware programming and design: TODO
-  - Ethan
+  - Johhny
 
 
 ## Career Info
@@ -113,13 +103,17 @@ Very useful for group or open-source projects.
 
 
 ## Special Interest
-- C++ Advanced Polymorphism/Inheritance: TODO
-  - Andrew
+- App Development
+  - Sean
+- Competitive Programming
+  - Sean
+  - Chad R
+  - Jesse
+  - Adrian
 - C++ Template Metaprogramming: Get the compiler to generate code for you.
   - Sean
 - Linux: A free-software operating system.
 Popular for servers and people who like having full control of their computer.
-  - Anthony
   - Jesse
   - Sean
 - Design Patterns: Techniques for recognizing commonly-occurring design problems in object-oriented software.
